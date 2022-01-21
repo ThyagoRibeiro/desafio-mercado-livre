@@ -2,7 +2,7 @@ version: '3.7'
 services:
 
   desafiomercadolivre:
-    image: thyagoribeiro/desafio-mercado-livre:1.2
+    image: thyagoribeiro/desafio-mercado-livre:1.3
     container_name: desafio-mercado-livre
     restart: always
     ports:

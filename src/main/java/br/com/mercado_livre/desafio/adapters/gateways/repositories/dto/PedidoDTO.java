@@ -26,6 +26,6 @@ public class PedidoDTO {
     private ClienteDTO cliente;
 
     @DynamoDBAttribute
-    private LocalDateTime dataHoraCompra;
+    private String dataHoraCompra;
 
 }

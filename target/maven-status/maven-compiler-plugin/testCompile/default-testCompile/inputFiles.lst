@@ -1,0 +1,13 @@
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\adapters\gateways\PedidoGatewayTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\ApplicationTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\mappers\PedidosMapperTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\core\usecases\impl\PedidosUseCaseImplTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\adapters\gateways\repositories\mappers\PedidoDTOMapperTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\interceptors\RestControllerLoggingInterceptorTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\archtests\CleanArchitectureTests.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\adapters\gateways\repositories\PedidoRepositoryTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\archtests\NamingConventionTests.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\controllers\ConsultasPedidosControllerTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\controllers\PedidosControllerTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\utils\HttpUtilsTest.java
+C:\Users\thyag\IdeaProjects\desafio-mercado-livre\src\test\java\br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\validators\UUIDValidatorTest.java

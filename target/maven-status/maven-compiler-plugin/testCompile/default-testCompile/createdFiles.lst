@@ -1,0 +1,13 @@
+br\com\mercado_livre\desafio\archtests\NamingConventionTests.class
+br\com\mercado_livre\desafio\unittests\adapters\gateways\repositories\PedidoRepositoryTest.class
+br\com\mercado_livre\desafio\unittests\adapters\gateways\PedidoGatewayTest.class
+br\com\mercado_livre\desafio\ApplicationTest.class
+br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\controllers\PedidosControllerTest.class
+br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\interceptors\RestControllerLoggingInterceptorTest.class
+br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\utils\HttpUtilsTest.class
+br\com\mercado_livre\desafio\unittests\core\usecases\impl\PedidosUseCaseImplTest.class
+br\com\mercado_livre\desafio\archtests\CleanArchitectureTests.class
+br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\controllers\ConsultasPedidosControllerTest.class
+br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\mappers\PedidosMapperTest.class
+br\com\mercado_livre\desafio\unittests\adapters\gateways\repositories\mappers\PedidoDTOMapperTest.class
+br\com\mercado_livre\desafio\unittests\adapters\http\rest\v1\validators\UUIDValidatorTest.class

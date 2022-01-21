@@ -52,16 +52,7 @@ public class PedidoDTOMapperTest {
                     .idPedido("442a8a38-1db4-4e9b-bb2e-c473bb04b2af")
                     .produtoList(Arrays.asList(produtoDTO))
                     .cliente(clienteDTO)
-                    .dataHoraCompra(
-                            LocalDateTime.of(
-                                    2022,
-                                    Month.JANUARY,
-                                    14,
-                                    19,
-                                    30,
-                                    40
-                            )
-                    )
+                    .dataHoraCompra("2022-01-17T19:15:30")
                 .build();
 
         PedidoEntity pedidoEntity = pedidoDTOMapper.toEntity(pedidoDTO);
@@ -77,16 +68,7 @@ public class PedidoDTOMapperTest {
                 .idPedido("442a8a38-1db4-4e9b-bb2e-c473bb04b2af")
                 .produtoList(null)
                 .cliente(null)
-                .dataHoraCompra(
-                        LocalDateTime.of(
-                                2022,
-                                Month.JANUARY,
-                                14,
-                                19,
-                                30,
-                                40
-                        )
-                )
+                .dataHoraCompra("2022-01-17T19:15:30")
                 .build();
 
         PedidoEntity pedidoEntity = pedidoDTOMapper.toEntity(pedidoDTO);
@@ -105,16 +87,7 @@ public class PedidoDTOMapperTest {
                 .idPedido("442a8a38-1db4-4e9b-bb2e-c473bb04b2af")
                 .produtoList(produtoDTOList)
                 .cliente(null)
-                .dataHoraCompra(
-                        LocalDateTime.of(
-                                2022,
-                                Month.JANUARY,
-                                14,
-                                19,
-                                30,
-                                40
-                        )
-                )
+                .dataHoraCompra("2022-01-17T19:15:30")
                 .build();
 
         PedidoEntity pedidoEntity = pedidoDTOMapper.toEntity(pedidoDTO);
